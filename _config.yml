@@ -1,0 +1,10 @@
+title: "DENG YI | Data Science Portfolio"
+description: "MSc Data Science student at the University of Macau, focusing on Marketing Analytics."
+theme: jekyll-theme-minimal
+show_downloads: false
+baseurl: "/data-science-portfolio"
+url: "https://edric-d0401.github.io"
+github_username: "Edric-D0401"
+portfolio_repository_url: "https://github.com/Edric-D0401/data-science-portfolio"
+project_repository_url: "https://github.com/Edric-D0401/data-science-project"
+project_status: "Ongoing — analysis complete; peer review and extension planned."
