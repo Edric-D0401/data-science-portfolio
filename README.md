@@ -11,7 +11,7 @@ A portfolio of developing data analysis and visualization skills, prepared for C
 
 The findings describe visits across two years; they do not establish causes or visitor spending. The project repository contains attributed source data, Python analysis, two visualizations, calculation checks, and reproduction instructions.
 
-**Project status:** Ongoing — analysis complete; peer review and extension planned.
+**Project status:** Ongoing — analysis and peer review complete; explanation revised; extension planned.
 
 ## Contents
 
@@ -23,6 +23,6 @@ The site uses Markdown, GitHub Pages, and the supported [Jekyll Minimal theme](h
 
 ## Next steps and assistance
 
-Next steps are to obtain classmate feedback, make a documented improvement, and explore an extension with compatible monthly and expenditure data.
+Classmate feedback correctly identified the project purpose, the distinction between the fastest growth and largest contribution, and the two-year limitation. The homepage now defines both denominators, shows the mainland contribution calculation (4,525,740 / 5,140,710 = 88.0%), and places the seasonality and causality boundary beside the finding. A future extension could use compatible monthly and expenditure data.
 
 AI assisted with code preparation, documentation, and validation. The portfolio presents inspectable work and developing skills; it does not claim independent proficiency beyond demonstrated work.

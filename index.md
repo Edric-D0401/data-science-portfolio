@@ -27,6 +27,10 @@ I am an MSc Data Science student at the University of Macau, focusing on Marketi
 
 **Main finding:** Total arrivals increased from **34,928,650 to 40,069,360 visits (+14.7%)**. Taiwan had the highest proportional growth (**19.4%**), but the much larger mainland market contributed **88.0%** of the total increase. Growth rate and growth contribution answer different questions and have different denominators.
 
+**How to read the comparison:** Growth rate divides a market's extra visits by its own 2024 arrivals. Growth contribution divides those extra visits by the total increase across all markets. For example, mainland China's **4,525,740 additional visits / 5,140,710 total additional visits = 88.0%**. Taiwan's **19.4%** uses its own smaller starting total. The fastest growing market therefore need not add the most visits.
+
+**Interpretation boundary:** These two annual totals show the change between 2024 and 2025. They cannot show seasonal patterns within a year or establish why arrivals changed; growth contribution is a share of the increase, not a causal effect.
+
 **Marketing relevance:** A large source market can drive most additional demand even when a smaller market grows faster. This distinction helps frame further market research; a budget decision would also need visitor spending, trip purpose, and acquisition costs.
 
 **Limitations:** These are visits, not unique people. Two annual observations cannot reveal seasonality or explain causes. The international category is aggregated, and the data contain no expenditure or conversion measures. The comparison describes 2024–2025, not current 2026 conditions.
@@ -44,6 +48,6 @@ The project repository records source definitions, acquisition dates, calculatio
 
 ## Next steps
 
-Obtain classmate feedback on the explanation and chart, make a documented improvement, and consider extending the analysis with compatible monthly and expenditure data.
+Classmate feedback correctly identified the project purpose, the difference between growth rate and contribution, and the two-year limitation. In response, the explanation now names both denominators, adds the mainland contribution calculation, and places the interpretation boundary beside the main finding. A future extension could use compatible monthly and expenditure data.
 
 AI assistance supported code preparation, writing, and validation. This portfolio presents developing skills and inspectable project outputs; it does not claim independent proficiency beyond demonstrated work.
